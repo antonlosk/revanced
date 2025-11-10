@@ -1,6 +1,6 @@
 {
-  "version": "v7.53.0.827222094 (patches 5.45.0)",
-  "versionCode": 7,
-  "zipUrl": "https://github.com/antonlosk/revanced/releases/download/7/googlephotos-revanced-magisk-v7.53.0.827222094-arm64-v8a.zip",
+  "version": "v7.53.0.827222094 (patches 5.46.0)",
+  "versionCode": 8,
+  "zipUrl": "https://github.com/antonlosk/revanced/releases/download/8/googlephotos-revanced-magisk-v7.53.0.827222094-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/antonlosk/revanced/update/build.md"
 }
